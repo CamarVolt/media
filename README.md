@@ -1,5 +1,8 @@
 # Mídias do Projeto CamarVolt
 
+#### Nova Logo Proposta
+<img width="1024" height="1024" alt="Gemini_Generated_Image_9aldy99aldy99ald (1) (1)" src="https://github.com/user-attachments/assets/d1e5603e-e20a-48ee-a841-2e57bfd00864" />
+
 
 #### Logo
 ![download (2)](https://github.com/user-attachments/assets/0e96fb3f-2980-43c4-ae7d-b0946e926ae6)
