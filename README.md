@@ -1,7 +1,12 @@
 # Mídias do Projeto CamarVolt
 
+#### Nova Logo
+<img width="512" height="512" alt="Gemini_Generated_Image_9aldy99aldy99ald (1) (2)" src="https://github.com/user-attachments/assets/029ab0d2-33b1-4013-a509-724da213d692" />
+
+
+
 #### Nova Logo Proposta
-<img width="1024" height="1024" alt="Gemini_Generated_Image_9aldy99aldy99ald (1) (1)" src="https://github.com/user-attachments/assets/d1e5603e-e20a-48ee-a841-2e57bfd00864" />
+<img width="512" height="512" alt="Gemini_Generated_Image_9aldy99aldy99ald (1) (1)" src="https://github.com/user-attachments/assets/d1e5603e-e20a-48ee-a841-2e57bfd00864" />
 
 
 #### Logo
